@@ -1,0 +1,29 @@
+background = 1b182c
+foreground = cbe3e7
+
+background-opacity = 0.0
+
+window-padding-x = 8,8
+window-padding-y = 8,8
+
+font-family = "JetBrains Mono"
+font-size = 10.0
+
+palette = 0=#100e23
+palette = 1=#ff8080
+palette = 2=#95ffa4
+palette = 3=#ffe9aa
+palette = 4=#91ddff
+palette = 5=#c991e1
+palette = 6=#aaffe4
+palette = 7=#cbe3e7
+
+palette = 8=#565575
+palette = 9=#ff5458
+palette = 10=#62d196
+palette = 11=#ffb378
+palette = 12=#65b2ff
+palette = 13=#906cff
+palette = 14=#63f2f1
+palette = 15=#a6b3cc
+
