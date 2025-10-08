@@ -10,9 +10,9 @@
 
 <div align="center">
 
-  <p align="left">
-    <img src="https://github.com/tanshen-kun/dotfiles/blob/main/Screenshots/pic1.png" width=490 />
-    <img src="https://github.com/tanshen-kun/dotfiles/blob/main/Screenshots/pic2.png" width=490 />
+  <p align="center">
+    <img src="https://github.com/tanshen-kun/dotfiles/blob/main/Screenshots/pic1.png" width=300 />
+    <img src="https://github.com/tanshen-kun/dotfiles/blob/main/Screenshots/pic2.png" width=300 />
   </p>
 
    <p align="center"> 
