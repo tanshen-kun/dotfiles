@@ -124,6 +124,10 @@ window#waybar.empty #window {
 #workspaces button.active{
 	background-color: white;
 	color: black;
+  transition:
+    all 50ms cubic-bezier(0.55, 0, 0.28, 1.682),
+    box-shadow 50ms ease-in-out,
+    background-color 200ms ease-in-out;
 }
 
 #workspaces button:last-child {

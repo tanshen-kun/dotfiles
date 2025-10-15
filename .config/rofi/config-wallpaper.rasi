@@ -10,7 +10,7 @@ configuration {
 
 window {
   width: 75%;
-  height: inherit;
+  height: 70%;
 }
 
 /* ---- Mainbox ---- */

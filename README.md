@@ -48,8 +48,6 @@ waybar
 wlogout
 ```    
 
-- <p>This config is mainly for hyprland and its components.</p>
-
 <img src="https://github.com/tanshen-kun/dotfiles/blob/main/animated-line.gif" />
 
 ### Nvim Plugins 
@@ -59,8 +57,8 @@ wlogout
 
   - Copying Nvim-plugins
     ```bash
-    mv ~/.local/share/nvim/Lazy ~/.local/share/nvim/Lazy.bak # backup original configs
-    cp nvim-plugins -r ~/.local/share/nvim/Lazy # Copy the new plugins 
+    mv ~/.local/share/nvim/lazy ~/.local/share/nvim/lazy.bak # backup original configs
+    cp .local/share/nvim/lazy -r ~/.local/share/nvim/lazy # Copy the new plugins 
     ```    
 
 

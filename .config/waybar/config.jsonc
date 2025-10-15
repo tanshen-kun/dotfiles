@@ -2,7 +2,7 @@
   "layer": "top", // Waybar at top layer
   "position": "top", // Waybar position (top|bottom|left|right)
   "height": 2, // Waybar height (to be removed for auto height)
-  // "width": 1280, // Waybar width
+  //"width": 1286, // Waybar width
   "spacing": 8, // Gaps between modules (4px)
   "margin-top": 4,
   "margin-left": 4,
@@ -17,15 +17,13 @@
     "~/.config/waybar/sound.json"
   ],
   "modules-left": [
-    "custom/appmenu",
-    "group/quicklinks",
-    "tray"
+    "hyprland/workspaces"
   ],
   "modules-center": [
      "clock",
-    "hyprland/workspaces"
   ],
   "modules-right": [
+    "tray",
     "group/sound",
  //   "group/hardware",
  //   "clock",
