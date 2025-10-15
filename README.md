@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://github.com/tanshen-kun/dotfiles/blob/main/animated-line.gif" /> 
-<h3><\DOTFILES\></h3> 
+<h3><\HYPRLAND DOTFILES\></h3> 
 
 <img src="https://github.com/tanshen-kun/dotfiles/blob/main/animated-line.gif" />
 
@@ -27,17 +27,19 @@
 
 ```pkg
 btop
+zsh
 cava
 fastfetch
-ghostty
+kitty
 go
-hypr
+hyprland
 dconf
+jetbrains mono nerd font
 mpd
 mpv
 ncmpcpp
 ncspot
-nvim
+neovim
 rofi
 superfile
 swappy
